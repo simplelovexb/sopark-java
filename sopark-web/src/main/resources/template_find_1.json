@@ -1,0 +1,90 @@
+{
+  "id": "template_find_1",
+  "title": "",
+  "properties": {},
+  "data": [
+    {
+      "type": "searchBar",
+      "properties": {},
+      "data": {
+        "icon": "search_icon",
+        "placeholder": "搜索"
+      }
+    },
+    {
+      "type": "rowWithTwoAnnounces",
+      "properties": {},
+      "extra": {
+        "gzArea": 1
+      }
+    },
+    {
+      "type": "bannerCarousel",
+      "properties": {
+      },
+      "extra": {
+        "gzArea": 0
+      }
+    },
+    {
+      "type": "rowWithTwoAnnounces",
+      "properties": {},
+      "extra": {
+        "gzArea": 0
+      }
+    },
+    {
+      "type": "bannerCarouselSmall",
+      "properties": {
+      },
+      "extra": {
+        "gzArea": 1
+      }
+    },
+    {
+      "type": "topicLsList",
+      "properties": {},
+      "extra": {
+        "topicType": "activity"
+      }
+    },
+    {
+      "type": "topicCloud",
+      "properties": {
+      }
+    },
+    {
+      "type": "topicLsList",
+      "properties": {},
+      "extra": {
+        "topicType": "regular"
+      }
+    },
+    {
+      "type": "rowWithTwoLives",
+      "properties": {
+      },
+      "extra": {
+        "showSize": 8
+      },
+      "titleBar": {
+        "background": "",
+        "title": "一行2个直播",
+        "iconUrl": "",
+        "jumpType": 2,
+        "jumpValue": "201000097"
+      }
+    },
+    {
+      "type": "rankAnchor",
+      "properties": {
+      },
+      "extra": {
+        "position": 3
+      },
+      "titleBar": {
+        "background": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "template_index_1",
+  "title": "",
+  "properties": {},
+  "data": [
+    {
+      "type": "bannerCarousel",
+      "properties": {
+      },
+      "extra": {
+        "gzArea": 0
+      }
+    },
+    {
+      "type": "rowWithTwoAnnounces",
+      "properties": {},
+      "extra": {
+        "gzArea": 1
+      }
+    },
+    {
+      "type": "rowWithMultiBanner",
+      "properties": {
+      },
+      "extra": {
+        "gzArea": 2
+      }
+    },
+    {
+      "type": "rowWithTwoLives",
+      "properties": {
+      },
+      "extra": {
+        "showSize": 4
+      },
+      "titleBar": {
+        "background": "",
+        "title": "一行2个直播",
+        "iconUrl": "",
+        "jumpType": 3,
+        "jumpValue": "活动话题"
+      }
+    },
+    {
+      "type": "bannerCarouselSmall",
+      "properties": {
+      },
+      "extra": {
+        "gzArea": 2
+      }
+    },
+    {
+      "type": "rowWithTwoLives",
+      "properties": {
+      },
+      "extra": {
+        "showSize": 4
+      },
+      "titleBar": {
+        "background": "",
+        "title": "一行2个直播",
+        "iconUrl": "",
+        "jumpType": 2,
+        "jumpValue": "201000097"
+      }
+    },
+    {
+      "type": "rowWithMultiRoundLives",
+      "properties": {
+      },
+      "extra": {
+        "showSize": 20
+      },
+      "titleBar": {
+        "background": "",
+        "title": "一行多个直播",
+        "iconUrl": "",
+        "jumpType": 2,
+        "jumpValue": "201000097"
+      }
+    },
+    {
+      "type": "rankAnchor",
+      "properties": {},
+      "extra": {
+        "position": 1
+      },
+      "titleBar": {
+        "background": ""
+      }
+    }
+  ]
+}
