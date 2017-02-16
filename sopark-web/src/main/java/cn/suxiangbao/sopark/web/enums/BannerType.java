@@ -1,4 +1,4 @@
-package market.minghao.shop.web.enums;
+package cn.suxiangbao.sopark.web.enums;
 
 /**
  * Created by Administrator on 2016/12/18.

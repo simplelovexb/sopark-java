@@ -1,4 +1,4 @@
-package market.minghao.shop.web.entity;
+package cn.suxiangbao.sopark.web.entity;
 
 /**
  * Created by Administrator on 2017/1/2.

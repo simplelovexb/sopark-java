@@ -1,4 +1,4 @@
-package market.minghao.shop.web.entity;
+package cn.suxiangbao.sopark.web.entity;
 
 import java.util.HashMap;
 import java.util.Map;

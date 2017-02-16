@@ -1,7 +1,7 @@
-package market.minghao.shop.controller;
+package cn.suxiangbao.sopark.controller;
 
-import market.minghao.shop.web.entity.Point;
-import market.minghao.shop.web.service.GeoService;
+import cn.suxiangbao.sopark.web.entity.Point;
+import cn.suxiangbao.sopark.web.service.GeoService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

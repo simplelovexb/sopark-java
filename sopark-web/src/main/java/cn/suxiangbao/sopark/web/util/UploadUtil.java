@@ -1,4 +1,4 @@
-package market.minghao.shop.web.util;
+package cn.suxiangbao.sopark.web.util;
 
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.multipart.MultipartHttpServletRequest;

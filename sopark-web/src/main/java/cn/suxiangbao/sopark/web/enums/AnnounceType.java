@@ -1,4 +1,4 @@
-package market.minghao.shop.web.enums;
+package cn.suxiangbao.sopark.web.enums;
 
 public enum AnnounceType {
     WEBLINK(0), LIVELINK(1), TOPICLSLINK(2);

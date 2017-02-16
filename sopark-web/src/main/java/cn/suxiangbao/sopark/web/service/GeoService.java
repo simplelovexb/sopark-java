@@ -1,9 +1,8 @@
-package market.minghao.shop.web.service;
+package cn.suxiangbao.sopark.web.service;
 
-import market.minghao.shop.web.entity.Point;
+import cn.suxiangbao.sopark.web.entity.Point;
 import org.springframework.stereotype.Service;
 
-import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.List;
 
